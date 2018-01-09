@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources
+END
+db.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources/db.properties
+END
+springmvc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources/springmvc.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources/log4j.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources/applicationContext.xml
+END
+mybatis.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/mytaocodetest18631663690/!svn/ver/3/ssmdemo1/src/main/resources/mybatis.xml
+END
